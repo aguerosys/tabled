@@ -10,3 +10,8 @@ Se trata de una simple y pequeña aplicación la cual permite organizar tus tare
 - Boostrap
 
 # Imagenes de referencia
+
+![Screen1](https://imgur.com/qbPztRN)
+![Screen2](https://imgur.com/eI8qBgw)
+![Screen3](https://imgur.com/7ZMSwOE)
+![Screen4](https://imgur.com/5XOo6Hj)
