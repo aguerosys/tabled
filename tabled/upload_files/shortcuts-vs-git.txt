@@ -1,0 +1,18 @@
+ctrl+, [abrir setting]
+alt+numero(1,2,3,etc) [moverse entre pestañas]
+ctrl+w [cerrar pestañas]
+ctrl+p [buscar archivos en el explorador de VS]
+ctrl+f [buscar codigo dentro del archivo q estas usando]
+ctrl+shift+f [busca codigo en todos los archivos
+ctrl+shift+p [busca entre los comandos]
+ctrl+ñ [abre o cierra terminal]
+
+Comandos git
+
+git init [crea el repositorio]
+git add . [agrega todos los archivos modificados]
+git commit -m "mensaje" [manda los cambios al repositorio con un mensaje -m]
+git diff [te indica el codigo q cambiaste]
+git log [te muestra los commit]
+
+antes de hacer el commit hacer un git add .
