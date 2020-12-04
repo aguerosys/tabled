@@ -11,7 +11,7 @@ Se trata de una simple y pequeña aplicación la cual permite organizar tus tare
 
 # Imagenes de referencia
 
-![Screen1](https://imgur.com/qbPztRN)
-![Screen2](https://imgur.com/eI8qBgw)
-![Screen3](https://imgur.com/7ZMSwOE)
-![Screen4](https://imgur.com/5XOo6Hj)
+![Screen1](https://github.com/aguerosys/tabled/blob/main/tabled/screens_programa/login.jpg)
+![Screen2](https://github.com/aguerosys/tabled/blob/main/tabled/screens_programa/perfil.jpg)
+![Screen3](https://github.com/aguerosys/tabled/blob/main/tabled/screens_programa/principal.jpg)
+![Screen4](https://github.com/aguerosys/tabled/blob/main/tabled/screens_programa/users.jpg)
